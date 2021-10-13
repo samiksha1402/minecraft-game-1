@@ -39,3 +39,11 @@ a
 	border-radius: 10px;
 	margin-bottom: 10px;
 }
+
+#game_info
+{
+	color: aqua;
+	background-color: black;
+	font-family: 'Courier New', Courier, monospace;
+	font-size: 30px;
+}
